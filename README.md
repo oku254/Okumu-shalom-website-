@@ -4,7 +4,7 @@ Personal website for okumu Shalom focused on leadership
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Okumu Shalom King | Leadership Trainer</title>
+  <title>Okumu Shalom King Leadership Training| Leadership Trainer</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Open+Sans&display=swap" rel="stylesheet">
   <style>
     body {
@@ -16,14 +16,14 @@ Personal website for okumu Shalom focused on leadership
     }
     header {
       background: #1c1c1c;
-      color: gold;
+      color: blue;
       padding: 3rem 1rem;
       text-align: center;
     }
     nav a {
       margin: 0 1rem;
-      color: gold;
-      text-decoration: none;
+      color: blue;
+      text-decoration: stylish font;
       font-weight: bold;
     }
     section {
@@ -49,7 +49,7 @@ Personal website for okumu Shalom focused on leadership
     }
     form button {
       background: gold;
-      border: none;
+      border: solid;
       color: black;
       font-weight: bold;
       cursor: pointer;
@@ -58,12 +58,12 @@ Personal website for okumu Shalom focused on leadership
       text-align: center;
       padding: 1.5rem;
       background: #1c1c1c;
-      color: gold;
+      color: blue;
     }
   </style>
 </head>
 <body>  <header>
-    <h1>Okumu Shalom King</h1>
+    <h1>Okumu Shalom King Leadership Training</h1>
     <p>Empowering Leaders. Transforming Generations.</p>
     <nav>
       <a href="#about">About</a>
